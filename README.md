@@ -44,7 +44,7 @@ Before you can run the tests, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/ksuraj20/MobileApplicationAutomationFrameWork.git
+git clone https://github.com/ksuraj20/upwork.git
 cd your-repo-name
 ```
 
